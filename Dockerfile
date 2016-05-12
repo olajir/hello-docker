@@ -1,3 +1,3 @@
 FROM busybox:latest
 #Adding this comment to initialize automatic build
-CMD echo Hello World
+CMD echo Hello World 2.0
